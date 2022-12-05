@@ -297,7 +297,5 @@ DlGlGHvFHGDgcFCtfhCJFtZc
 DBHGGGSDvGDPHWBGdBbSvgWDNVMjLLRnmNmjPLNPNcRQVnjj
 tsGdTJdJtNllzjGRzm
 HZvvDLLWqbBBMRMRNjVhHRmn
-vZDCvqqgBDZZjbZDrWqBvpdpFpcdpCJcPTSJJtptpP
-`;
-
+vZDCvqqgBDZZjbZDrWqBvpdpFpcdpCJcPTSJJtptpP`;
 export default data;
