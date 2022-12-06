@@ -1006,4 +1006,4 @@ const sampleData = `2-4,6-8
 6-6,4-6
 2-6,4-8`;
 
-export default sampleData;
+export default data;

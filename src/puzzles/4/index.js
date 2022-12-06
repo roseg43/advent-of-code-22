@@ -1,4 +1,4 @@
-import Puzzle4 from './4.js';
+import Puzzle4 from './1.js';
 
 document.addEventListener('DOMContentLoaded', () => {
     Puzzle4();
