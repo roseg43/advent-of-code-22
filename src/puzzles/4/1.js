@@ -27,7 +27,6 @@ while (i < high + 1) {
     i++;
 }
 
-
 /**
  * Creates a range using the range we generated from 0 to the highest number in our dataset.
  * I have no idea why I decided to go with this approach
@@ -40,7 +39,6 @@ const createRangeFromSource = (set) => {
 
 
 const init = () => {
-
     /**
      * Now that we have our sample range, let's expand our range strings from the
      * source data.
