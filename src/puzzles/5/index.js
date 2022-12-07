@@ -1,4 +1,4 @@
-import Puzzle5 from './1.js';
+import Puzzle5 from './2.js';
 document.addEventListener('DOMContentLoaded', () => {
     Puzzle5();
 })

@@ -513,3 +513,15 @@ move 17 from 5 to 1
 move 14 from 1 to 2
 move 7 from 2 to 4
 move 5 from 2 to 6`;
+
+export const testDiagram = 
+`    [D]    
+[N] [C]    
+[Z] [M] [P]
+ 1   2   3 `;
+
+ export const testInstructions =
+ `move 1 from 2 to 1
+move 3 from 1 to 3
+move 2 from 2 to 1
+move 1 from 1 to 2`;
